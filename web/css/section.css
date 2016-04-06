@@ -1,0 +1,11 @@
+/* section.css */
+/* -- #section.css ------------------------------------------------*/
+section{width: 960px; height: 684px;}
+#icon_box{width: 100%; height: 220px; background-color: #f5a;}
+article{width: 100%; height: 464px; background-color: #ddd;}
+#art_01{width: 50%; height: 100%; background-color: #4ff; float:left;}
+#art_02{width: 50%; height: 100%; float:left;}
+ul{width: 100%; height: 100%;}
+ul .video{width: 100%; height: 50%; background-color: #e5e5e5; display: block;}
+ul .notice{width: 50%; height: 50%; background-color: #ae4; float:left; display: block;}
+ul .num{width: 50%; height: 50%; background-color: #ee5; float:left; display: block;}
